@@ -1,1 +1,9 @@
+# sayulitalabs.com
+tittle: Alex Packet
+author: Alex Packet
+twitter_username: alexpacket
+github_username: alexpacket
+
+#Build settings
+markdown: Kramdown
 theme: jekyll-theme-cayman
